@@ -28,6 +28,7 @@ Each one is housed in its own repository, and this index serves as a central ref
 ## 📇 CLI Tools
 
 - [**Contact Keeper**](https://github.com/rootdrigo/contact_keeper) → Contact manager in Python (CLI), with JSON storage and Regex search.
+- [**Pixclues - Reduced image generator**](https://github.com/rootdrigo/pixclues-generator) → transforms an image into a simplified representation using the colors obtained from random dots.
 
 ---
 
