@@ -7,6 +7,8 @@ Each one is housed in its own repository, and this index serves as a central ref
 
 ## 🌐 Web & Frontend
 
+- [**React-Components-Library**](https://github.com/rootdrigo/react-components-library) → A modular and scalable collection of reusable components built with React.
+
 ---
 
 ## 🤖 Bots & Automation
